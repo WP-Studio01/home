@@ -1,0 +1,16 @@
+{
+	"user": "WP-Studio01",
+	"repo": "home",
+	"url": "https://wp-studio01.github.io/home/",
+	"title": "HelloWorld的公告",
+	"menu": [
+		{
+			"name": "文章",
+			"url": "https://wp-studio01.github.io/blog/"
+		},
+		{
+			"name": "主页",
+			"url": "https://wp-studio01.github.io/home/"
+		}
+	]
+}
